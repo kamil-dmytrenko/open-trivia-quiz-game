@@ -1,1 +1,1 @@
-open-trivia-quiz-game
+quiz game made with opentdb API and React
